@@ -1,6 +1,6 @@
 # Random user agent
 
-This is a simple package for random browser user agent.
+This is a simple go package for random browser user agent.
 
 ## Installation
 ```bash
